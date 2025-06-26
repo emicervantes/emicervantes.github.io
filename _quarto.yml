@@ -79,7 +79,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+  repo-url: https://github.com/emicervantes/emicervantes.github.io
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
@@ -87,7 +87,7 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://emicervantes.github.io"
   
   google-analytics:
     tracking-id: ""  # Please delete or replace with your own tracking ID
