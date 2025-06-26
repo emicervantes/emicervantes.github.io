@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Personal website for Emi Cervantes"
+author-meta: "Emi Cervantes"
 
 website:
-  title: "Quarto Academic"
+  title: "Emi Cervantes"
   image: "https://quarto.org/quarto.png"
   description: "Quarto Academic Website Template adapted by Dr. Gang He"
  
@@ -44,32 +44,20 @@ website:
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/emi-cv.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
-        target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
+        href: https://github.com/emicervantes
         target: _blank
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    left: "[Emi Cervantes](https://emicervantes.github.io/) &copy; <script>document.write(new Date().getFullYear())</script>" 
     center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/emicervantes
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
   
   search:
     location: navbar
