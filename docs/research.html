@@ -9,7 +9,7 @@
 <meta name="author" content="Emi Cervantes">
 <meta name="description" content="Personal website for Emi Cervantes">
 
-<title>Emi Cervantes</title>
+<title>Research – Emi Cervantes</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -35,6 +35,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -98,15 +99,13 @@ https://badge.dimensions.ai/
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Emi Cervantes">
-<meta property="og:image" content="https://emicervantes.github.io/files/images/emi_portrait.png">
+<meta property="og:title" content="Research – Emi Cervantes">
+<meta property="og:description" content="Quarto Academic Website Template adapted by Dr.&nbsp;Gang He">
+<meta property="og:image" content="https://quarto.org/quarto.png">
 <meta property="og:site_name" content="Emi Cervantes">
-<meta property="og:image:height" content="3619">
-<meta property="og:image:width" content="3758">
-<meta name="twitter:title" content="Emi Cervantes">
-<meta name="twitter:image" content="https://emicervantes.github.io/files/images/emi_portrait.png">
-<meta name="twitter:image-height" content="3619">
-<meta name="twitter:image-width" content="3758">
+<meta name="twitter:title" content="Research – Emi Cervantes">
+<meta name="twitter:description" content="Quarto Academic Website Template adapted by Dr.&nbsp;Gang He">
+<meta name="twitter:image" content="https://quarto.org/quarto.png">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -132,7 +131,7 @@ https://badge.dimensions.ai/
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link active" href="./research.html" aria-current="page"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -163,52 +162,35 @@ https://badge.dimensions.ai/
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-
-
-
-<div class="quarto-about-trestles column-page">
-  <div class="about-entity">
-    <img src="files/images/emi_portrait.png" class="about-image
-  rounded " style="width: 70%;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Emi Cervantes</h1>
+<h1 class="title">Research</h1>
 </div>
-<div class="quarto-title-meta column-page">
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+
 </header>
-    <div class="about-links">
-  <a href="https://github.com/emicervantes" class="about-link" rel="" target="_blank">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="https://www.linkedin.com/in/emicervantes/" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<p>Hello and welcome!</p>
-<p>I’m a Ph.D.&nbsp;student in the Department of Statistics at Penn State University. I received my B.S. in Mathematics with a concentration in Data Science from the University of California, Irvine in 2024. My current research areas focus on latent variable modeling with application to behavioral data and statistics/data science education.</p>
-<p><strong>Email:</strong> exc5589[at]psu[dot]edu</p>
-<section id="education" class="level2">
-<h2 data-anchor-id="education">Education</h2>
-<ul>
-<li>B.S. Mathematics, UC Irvine 2024</li>
-</ul>
-</section>
-</div></div>
-</div>
 
 
+<p>Under Construction!</p>
 
 
 
@@ -233,6 +215,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
