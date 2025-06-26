@@ -1,0 +1,11 @@
+---
+title: "About Me!"
+title-block-banner: false
+---
+
+Hello! My name is Emi (she/her). I am a Statistics Ph.D. student and Dean’s Distinguished Graduate Fellow at Penn State. I completed my bachelor’s degree in Mathematics at UC Irvine in 2024.
+
+I have research experiences in diverse area of fields including applied mathematics, statistics, medicine, and education. Currently, my research areas involve statistics education and statistical network science. My goal is to contribute to the rapid-growing field of data science by providing tools that are both efficient and accessible.
+
+In addition to my research work, I’ve actively participated in organizations like Data @ UCI, Undergraduate Mathematics Committee, and Math CEO where I nurtured my passion for growing and improving the communities for mathematics and data sciences. Outside of academics, I enjoy running, climbing, and trying out fun vegan food.
+
