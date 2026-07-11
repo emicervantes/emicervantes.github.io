@@ -47,3 +47,13 @@ a:hover,
   background-color: #7c6a0a !important;
   border-color: #7c6a0a !important;
 }
+
+/* FORCE TABLE OF CONTENTS ACTIVE ITEMS TO BE GOLD INSTEAD OF BLUE */
+.toc-actions a:hover, 
+nav[data-toggle="toc"] .nav .active > a, 
+nav[data-toggle="toc"] .nav .active > a:hover,
+#quarto-toc-sidebar .active,
+#quarto-toc-sidebar .nav-link.active {
+  color: #7c6a0a !important;
+  border-left-color: #7c6a0a !important; /* Changes the active vertical line color */
+}
