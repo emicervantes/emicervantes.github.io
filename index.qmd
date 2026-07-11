@@ -42,17 +42,14 @@ about:
      # - "title asc"
 ---
 
-:::{#hero-heading}
-
+::: {#hero-heading}
 Hello and welcome!
 
-I’m a Ph.D. student in the Department of Statistics at Penn State University. I received my B.S. in Mathematics with a concentration in Data Science from the University of California, Irvine in 2024. My current research areas focus on latent variable modeling with application to behavioral data and statistics/data science education.
+I’m a Ph.D. student in the Department of Statistics at Penn State University. I received my B.S. in Mathematics with a concentration in Data Science from the University of California, Irvine in 2024. My current research areas focus on latent variable modeling and statistics education. I'm co-advised by [Dr. Sam Baugh](https://samjbaugh.com/) and [Dr. Matthew Beckman](https://mdbeckman.github.io/).
 
-**Email:** exc5589[at]psu[dot]edu
+**Email:** exc5589\[at\]psu\[dot\]edu
 
 ## Education
 
 - B.S. Mathematics, UC Irvine 2024
-
 :::
-

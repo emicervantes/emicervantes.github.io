@@ -3,5 +3,24 @@ title: "Outreach"
 title-block-banner: false
 ---
 
-Under construction!
+# \@ Penn State
 
+I serve as the Vice President of the **Statistics Graduate Student Association (SGSA)** at Penn State, a student-led organization representing the graduate student body within the Department of Statistics. In this role, I collaborate with fellow student leaders to plan and execute biweekly events, ranging from technical workshops to community-building social gatherings. Dedicated to fostering an inclusive environment, I also served as a graduate representative on the **Eberly College of Science Diversity & Climate Subcommittee** for the 2025–2026 academic year. Through this subcommittee, I collaborated with faculty and peer representatives to strengthen graduate student advocacy and support across the college.
+
+Beyond my institutional leadership, I am deeply passionate about volunteering for local K-12 STEM outreach events. Working alongside a group of statistics graduate students, I have designed and led interactive activities and workshops aimed at making statistics fun and accessible for K-12 students.
+
+- **Probability with Dice**, Exploration-U 2024
+
+- **Sweet Victory with Machine Learning**, ENVISION 2025
+
+- **Game Plan with Data**, Young Women in STEM 2025
+
+# \@ UC Irvine
+
+At UC Irvine, I served on the executive boards of **Data \@ UCI** and the **Undergraduate Mathematics Committee** (formerly known as *Faces in Mathematics*). As a founding board member of Data \@ UCI—the university's very first data science organization—I designed and hosted technical workshops tailored to helping students break into data careers. I also helped launch UCI's first-ever datathon, which drew over 200 participants and has since grown into an annual tradition. Later, as president of the Undergraduate Mathematics Committee, I drafted successful funding proposals to secure and upgrade a brand-new study lounge dedicated to undergraduate math majors.
+
+Read more about my involvements at UC Irvine:
+
+[#IamPhysSci – Emi Cervantes, B.S., Mathematics](https://ps.uci.edu/news/3114/).
+
+[UC Irvine hosts first Embark datathon](https://ps.uci.edu/news/2892/)

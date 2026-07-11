@@ -12,7 +12,7 @@ website:
   description: "Quarto Academic Website Template adapted by Dr. Gang He"
  
   navbar:
-    background: light  # You can change the background color here
+  #  background: "#f2a65a"  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
@@ -27,15 +27,17 @@ website:
     right: 
       - text: CV
         href: files/emi-cv.pdf
-      - icon: github
-        href: https://github.com/emicervantes
-        target: _blank
+      #- icon: github
+       # href: https://github.com/emicervantes
+       # target: _blank
+      #- icon: linkedin
+       # href: https://www.linkedin.com/in/emicervantes/
+       # target: _blank
   
   page-navigation: true
   
   page-footer: 
     left: "[Emi Cervantes](https://emicervantes.github.io/) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
         href: https://github.com/emicervantes

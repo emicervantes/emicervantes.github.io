@@ -1,11 +1,14 @@
 ---
-title: "About Me!"
+title: "About ME!"
 title-block-banner: false
 ---
 
-Hello! My name is Emi (she/her). I am a Statistics Ph.D. student and Dean’s Distinguished Graduate Fellow at Penn State. I completed my bachelor’s degree in Mathematics at UC Irvine in 2024.
+Hello there!
 
-I have research experiences in diverse area of fields including applied mathematics, statistics, medicine, and education. Currently, my research areas involve statistics education and statistical network science. My goal is to contribute to the rapid-growing field of data science by providing tools that are both efficient and accessible.
+My name is Emi (she/her). I am a Statistics Ph.D. student and Dean’s Distinguished Graduate Fellow at Penn State. I completed my bachelor’s degree in Mathematics at UC Irvine in 2024.
 
-In addition to my research work, I’ve actively participated in organizations like Data @ UCI, Undergraduate Mathematics Committee, and Math CEO where I nurtured my passion for growing and improving the communities for mathematics and data sciences. Outside of academics, I enjoy running, climbing, and trying out fun vegan food.
+My research focuses on Bayesian inference for latent variable models and statistics education. Specifically, I apply Bayesian hierarchical models to education data. Within statistics education, I am interested in studying how to provide effective feedback that enhances and maintains student motivation while improving the overall learning experience. Ultimately, I aim to bridge these two interests by using latent variable modeling as a tool to enrich the feedback instructors give to students. You can learn more about my past and ongoing work on my Research page.
 
+Community involvement is very important to me. During my time at UCI, I actively participated in many student organizations including [Data \@ UCI](https://www.dataatuci.com/), the [Undergraduate Mathematics Committee](https://sites.uci.edu/umc/), and [Math CEO](https://sites.ps.uci.edu/mathceo/), where I nurtured my passion for growing and supporting the math and data science communities. At Penn State, I serve on the leadership board for the [Statistics Graduate Student Association (SGSA)](https://sites.psu.edu/statisticsgsa/), where I help plan social and professional development events to build a supportive community for graduate students in the department. You can read more about these initiatives on my Outreach page.
+
+Outside of academics, I love staying active outdoors—you can usually find me running, climbing, or backpacking! Having split my childhood between the snowy landscapes of Hokkaido, Japan, and the sunny beaches of San Diego, California, I feel right at home exploring all kinds of nature. I am also a proud cat mom to Yuzu, an orange girl cat who loves to play fetch and is an expert at demanding my attention while I work.
