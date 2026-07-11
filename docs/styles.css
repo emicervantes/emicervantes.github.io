@@ -1,30 +1,30 @@
-/* 1. FORCE THE NAVBAR BACKGROUND TO BE ORANGE ON ALL PAGES */
+/* FORCE THE NAVBAR BACKGROUND TO BE ORANGE ON ALL PAGES */
 .navbar {
   background-color: #f2a65a !important;
 }
 
-/* 2. HEADER TABS ONLY: DARK GREEN TEXT */
+/* HEADER TABS ONLY: DARK GREEN TEXT */
 .navbar a, 
 .navbar-brand, 
 .navbar-nav .nav-link {
-  color: #1E4620 !important; /* Your dark green color */
+  color: #1E4620 !important;
 }
 
-/* HEADER TABS ONLY: HOVER EFFECT (Slightly lighter/different green) */
+/* HEADER TABS ONLY: HOVER EFFECT */
 .navbar a:hover, 
 .navbar-nav .nav-link:hover {
   color: #2d6630 !important; 
 }
 
-/* 3. REGULAR HYPERLINKS (BODY & FOOTER ONLY): KEEP GOLD/BROWN */
+/* REGULAR HYPERLINKS (BODY & FOOTER ONLY) */
 a, 
 .page-footer a {
-  color: #7c6a0a; 
+  color: #7c6a0a !important; 
 }
 
 a:hover, 
 .page-footer a:hover {
-  color: #585123; 
+  color: #585123 !important; 
 }
 
 /* FORCE ALL BUTTON LINKS (GITHUB & LINKEDIN) TO MATCH THE THEME */
@@ -38,7 +38,6 @@ a:hover,
   background-color: transparent !important;
 }
 
-/* BUTTON HOVER STATE */
 .about-links .btn:hover,
 .about-links a.btn:hover,
 .about-link:hover,
