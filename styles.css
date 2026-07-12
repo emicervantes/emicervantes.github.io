@@ -48,12 +48,27 @@ a:hover,
   border-color: #7c6a0a !important;
 }
 
-/* FORCE TABLE OF CONTENTS ACTIVE ITEMS TO BE GOLD INSTEAD OF BLUE */
-.toc-actions a:hover, 
-nav[data-toggle="toc"] .nav .active > a, 
-nav[data-toggle="toc"] .nav .active > a:hover,
-#quarto-toc-sidebar .active,
-#quarto-toc-sidebar .nav-link.active {
+/* COMPLETE OVERRIDE FOR THE ACTIVE TOC STATE */
+main nav .nav-link.active,
+#quarto-toc-sidebar .nav-link.active,
+.sidebar-nav .active > a,
+.nav-link.active,
+nav[data-toggle=toc] .nav .active > a,
+nav[data-toggle=toc] .nav .active > a:focus,
+nav[data-toggle=toc] .nav .active > a:hover {
   color: #7c6a0a !important;
-  border-left-color: #7c6a0a !important; /* Changes the active vertical line color */
+  border-left-color: #7c6a0a !important;
+}
+
+/* FIX HOVER IN THE TOC AS WELL */
+main nav .nav-link:hover,
+#quarto-toc-sidebar .nav-link:hover {
+  color: #585123 !important;
+}
+
+/* FORCE THE ACTIVE HIGHLIGHTED TOC ITEM TO STAY GOLD EVEN WHEN HOVERED */
+main nav .nav-link.active:hover,
+#quarto-toc-sidebar .nav-link.active:hover,
+.nav-link.active:hover {
+  color: #585123 !important; /* Your darker hover gold */
 }
