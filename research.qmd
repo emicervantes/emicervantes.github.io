@@ -9,4 +9,4 @@ Knowing the learning progressions of students allows instructors to cultivate re
 
 ![](files/images/L_IRT.png){fig-alt="L_IRT"}
 
-Links: [ICOTS12 proceedings paper](files/ICOTS12_Cervantes.pdf), ICOTS12 slides
+Links: [ICOTS12 proceedings paper](files/ICOTS12_Cervantes.pdf), [ICOTS12 slides](files/ICOTS12_slides.pdf)
